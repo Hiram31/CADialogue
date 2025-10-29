@@ -1,0 +1,12 @@
+{
+  "GPT-4.1": {
+    "api_version": "your-azure-api-version",
+    "api_key": "your-azure-api-key",
+    "azure_endpoint": "https://your-endpoint.openai.azure.com/"
+  },
+  "GPT-4o": {
+    "api_version": "your-azure-api-version",
+    "api_key": "your-azure-api-key",
+    "azure_endpoint": "https://your-endpoint.openai.azure.com/"
+  }
+}

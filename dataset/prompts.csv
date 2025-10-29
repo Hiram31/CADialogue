@@ -1,0 +1,71 @@
+ID,Difficulty,Prompt
+C01,Easy,Cube with side dimension 10mm.
+C02,Easy,Ball with radius of 75mm.
+C03,Easy,A rectangular block with dimensions 40mm by 20mm by 10mm.
+C04,Easy,A cylinder with a diameter of 20mm and a height of 100mm.
+C05,Easy,A torus with inner hole radius of 50mm and outer radius with 20mm.
+C06,Easy,A plate which is circular in shape with radius 6mm and height 2mm
+C07,Easy,Cone with base radius 10 mm and height 10 mm
+C08,Easy,Cylinder with base radius 10 mm and height 20 mm
+C09,Easy,A rectangular block of 100mm by 50mm by 50mm with a separate cylindrical roller of 100mm length and 20mm diameter lying parallel and tangent to the block's top surface.
+C10,Easy,"A screw with a 2_mm radius, 10_mm long solid shaft, and a 3_mm radius _ 2_mm tall cylindrical head."
+C11,Easy,A square plate with side length 30mm and thickness 3mm.
+C12,Easy,A hexagonal prism with a side length of 15mm and height of 30mm.
+C13,Easy,A hexagon with side lengths of 5 mm and a thickness of 2mm.
+C14,Easy,An octagonal column with side length of 5mm and height of 40mm.
+C15,Easy,"A diamond shape plate with diagonal lengths of 20mm and 10mm, and thickness of 3mm."
+C16,Easy,"A shaft with inner diameter of 50mm, outer diameter of 80mm and height of 100mm."
+C17,Easy,"A hollow cuboid with length 10 mm, breadth 5 mm and height 2 mm and that is open from one side."
+C18,Easy,A cube of 20mm with a cylindrical hole of a radius of 5mm centered on the top face.
+C19,Easy,"Create a hollow truncated cone (conical frustum) with an outer base radius of 20_mm, top radius of 10_mm, and height of 25_mm. The wall thickness should be 2_mm, forming a shell with concentric inner and outer surfaces."
+C20,Easy,A plate which is similar to the shape of a star that has a side length of 5 mm and thickness 2 mm.
+C21,Easy,The flange is a circular metal component measuring 139mm in diameter and 17mm in thickness. It has a raised face with a diameter of 63mm and a height of 193mm. The bore diameter is 45mm.
+C22,Easy,A football goal post with a width of 7300mm and a height of 2400mm.
+C23,Easy,"A bookshelf with five adjustable shelves, each 800mm _ 300mm _ 20mm, mounted on vertical side panels with 30mm thickness, and a closed-back panel of 5mm."
+C24,Medium,A tetrahedron with edge lengths of 20 mm.
+C25,Medium,"A combination of a cube and a pyramid, with a cube base of 15mm and a pyramid height of 25mm centered on the top face of the cube."
+C26,Medium,A crescent moon shape with max radius of 15mm and thickness of 2mm.
+C27,Medium,"A hexagonal nut with an outer diameter of 55mm and height of 7mm, featuring a circle central hole of 10mm across flats, chamfered edges on top and bottom (1mm _ 45�)."
+C28,Medium,"It is a spring with coil diameter is 92 mm, pitch is 13 mm, free length is 34 mm and with wire radius of 1.77 mm."
+C29,Medium,"A cylinder of radius 12 mm and height 30 mm, intersected by a perpendicular rectangular slot of 10 mm by 20 mm cut through the midsection."
+C30,Medium,"A T-shaped beam: vertical stem (height) 100 mm _ (width) 10 mm _ (thickness) 20 mm; top flange (height) 60 mm _ (width) 10 mm _ (thickness) 20 mm, centered on the stem."
+C31,Medium,"A combined sphere and cube, with the sphere having a radius of 25mm and the cube having 50mm sides, fused at one face."
+C32,Medium,"Two intersecting cylinders, each with radius 15mm and height 40mm, aligned along perpendicular axes."
+C33,Medium,A rectangular plate of 50mm by 30mm by 5mm with a circular hole of radius 10mm at the center.
+C34,Medium,"A solid sphere of radius 15mm with three small cylindrical pegs (5mm radius, 10mm height) emerging equidistant on the surface."
+C35,Medium,An elbow pipe with outer diameter of 50mm and inner diameter of 30mm.
+C36,Medium,"A rectangular frame: outer dimensions 80 mm _ 60 mm _ 8 mm thick, with an internal rectangular cutout of 60 mm _ 40 mm, leaving a 10 mm border. Add four circular holes of 5 mm diameter, one at each corner of the frame."
+C37,Medium,A semi-circular disc with radius of 25mm and thickness of 5mm.
+C38,Medium,A pyramid with a square base of 20mm sides and height of 30mm.
+C39,Medium,A cylinder with radius 20 mm and height 5 mm and has a square hole at the center.
+C40,Medium,A flange with outer diameter 20mm and inner diameter 10.
+C41,Medium,"A flange with a wide base and long face. It has a total diameter of 135mm for the flange, with a thickness of 8mm. The raised face is 93mm in diameter, and the height of it is 84mm. Finally, the bore diameter in the center is 38mm."
+C42,Medium,"A snowboard of 1500mm in length and 250mm in width, with a separate set of bindings with a base of 150mm by 150mm."
+C43,Medium,"A triangular prism with base side length of 20 mm and prism length of 60 mm, featuring a circular hole of 8 mm diameter centered on the prism face."
+C44,Medium,"A hexagonal plate of 40 mm across flats and thickness 5 mm, with three circular through holes of 6 mm diameter positioned symmetrically around the center at 10 mm radial distance."
+C45,Medium,"A half-cylinder of radius 25 mm, height 10 mm, cut along its vertical axis, with a rectangular notch of 8 mm _ 4 mm removed from the curved side."
+C46,Medium,A stepped shaft with three sections: Section 1: diameter 12 mm _ length 20 mm; Section 2: diameter 8 mm _ length 30 mm; Section 3: diameter 15 mm _ length 25 mm.
+C47,Hard,"A hexagonal nut with an outer diameter of 20mm and a height of 10mm, with a hexagonal through hole of 10mm."
+C48,Hard,"A circular gear with 61 teeth, a face width of 8.0mm, bore diameter 21.8mm and has a module of 3."
+C49,Hard,"A hollow half-sphere: outer radius 40 mm, inner radius 35 mm, with a 10 mm square through hole drilled along the Z-axis."
+C50,Hard,An elliptical plate with the major axis of 50mm and the minor axis of 30mm with a thickness of 5mm
+C51,Hard,"A pair of parallel plates of 40mm square and 3mm thick, separated by a 10mm gap."
+C52,Hard,"A H-shaped beam with a height of 100mm, arm lengths of 50mm each, and a thickness of 10mm."
+C53,Hard,A four-legged rectangular table with a 1000mm x 600mm tabletop (thickness 30mm) and legs positioned 100mm inward from each corner.
+C54,Hard,"A pipe elbow: outer diameter 40 mm, inner diameter 30 mm, bent at 90 degree, with a total bend radius of 50 mm."
+C55,Hard,A stepped flange: base disc 100 mm diameter _ 10 mm thickness; raised face 60 mm diameter _ 20 mm height; central bore 20 mm diameter; six bolt holes of 8 mm diameter equally spaced on a 75 mm bolt circle.
+C56,Hard,"A flat ring with outer radius of 25mm, inner radius of 15mm, with three evenly spaced square holes on the ring, each side of the square being 3mm."
+C57,Hard,"A triangular prism with base sides of 25mm, and a length of 50mm."
+C58,Hard,"A straight ladder with 20 rectangular steps, each 400mm wide _ 40mm deep _ 20mm thick, evenly spaced at 200mm intervals along two parallel vertical rails of 50mm _ 20mm cross-section and 4200mm total height. The step-to-rail joints are centered and flush-mounted."
+C59,Hard,"A hollow cylinder with an outer diameter of 50mm, an inner diameter of 45mm, and a height of 75mm."
+C60,Hard,"A hexagonal bolt with a shaft length of 40mm, head diameter of 15mm, and a threaded portion of 20mm at the end."
+C61,Hard,A solid shaft with diameter 80mm with a flatkey slot.
+C62,Hard,"A shaft with two distinct sections. The first section has a length of 22.3mm and a diameter of 8.5mm. The second section is 25.3mm in length, with a diameter of 7.9mm."
+C63,Hard,A four-spoke wheel: outer rim 120 mm diameter _ 20 mm thick _ 15 mm width; inner hub cylinder 30 mm diameter _ 40 mm height; four rectangular spokes 10 mm wide _ 15 mm thick connecting rim and hub.
+C64,Hard,"A trapezoidal plate with a height of 10 mm, bottom base of 30mm, top base of 20mm, and thickness of 5mm."
+C65,Hard,"it is a Shaft Section 1: L=26.4 mm, D=3.2 mm. Section 2: L=22.6 mm, D=15.2 mm."
+C66,Hard,A triangular pyramid with base sides of 15mm and height of 20mm.
+C67,Hard,A gear component which has 7 module and 79 number of teeth with 6.1mm face width and 17.0mm bore diameter.
+C68,Hard,"A cube of 25 mm side length with a pyramidal cut (base coinciding with the top face, apex pointing inward) having a height of 12 mm."
+C69,Hard,"A cone with a base diameter of 40 mm and height of 60 mm, cut flat at the top by a plane 15 mm below the apex."
+C70,Hard,Airplane wing using NACA 0010 airfoil.

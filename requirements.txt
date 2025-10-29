@@ -1,0 +1,9 @@
+fastapi==0.115.12
+uvicorn==0.34.2
+pydantic==2.11.3
+sounddevice==0.5.1
+soundfile==0.13.1
+openai-whisper==20240930
+torch==2.6.0
+requests==2.32.3
+sentence-transformers

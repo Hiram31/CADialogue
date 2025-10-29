@@ -1,0 +1,25 @@
+import importlib
+import sys
+import os
+
+
+# Name of the main module (without .py)
+module_name = "CADialogue"
+
+# Path to this script (macros/)
+macro_dir = os.path.dirname(os.path.abspath(__file__))
+
+# Project root = parent of macros/
+project_dir = os.path.dirname(macro_dir)
+
+# Ensure project root is in sys.path
+if project_dir not in sys.path:
+    sys.path.insert(0, project_dir)
+
+# Reload if already loaded, else import
+if module_name in sys.modules:
+    importlib.reload(sys.modules[module_name])
+    print(f"🔄 Module '{module_name}' reloaded.")
+else:
+    importlib.import_module(module_name)
+    print(f"✅ Module '{module_name}' imported.")
