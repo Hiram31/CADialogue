@@ -8,7 +8,7 @@ This repository contains the **official implementation of CADialogue**, the syst
 
 > **CADialogue: A Multimodal LLM-Powered Conversational Assistant for Intuitive Parametric CAD Modeling**  
 > Jiwei Zhou, Jorge D. Camba, Pedro Company  
-> *Computer-Aided Design*, 2025.  
+> *Computer-Aided Design*, Volume 191, 2026, 104006.  
 > [https://doi.org/10.1016/j.cad.2025.104006](https://doi.org/10.1016/j.cad.2025.104006)
 
 _**CADialogue**_ integrates **Large Language Models (LLMs)** with **FreeCAD** to enable conversational creation and refinement of parametric CAD models using:
@@ -143,12 +143,13 @@ For Mac:
 ## 🙌 Citation
 If you use this repo in your research, please cite:
 ```
-@article{zhou2025cadialogue,
+@article{zhou2026cadialogue,
   title={CADialogue: A Multimodal LLM-Powered Conversational Assistant for Intuitive Parametric CAD Modeling},
   author={Zhou, Jiwei and Camba, Jorge D. and Company, Pedro},
   journal={Computer-Aided Design},
-  year={2025},
-  doi={10.1016/j.cad.2025.104006},
-  note={In press}
+  volume={191},
+  year={2026},
+  pages={104006},
+  doi={10.1016/j.cad.2025.104006}
 }
 ```
